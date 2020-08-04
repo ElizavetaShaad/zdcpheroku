@@ -1,7 +1,7 @@
 {
   "name": "Zendesk ack-back",
   "description": "Update Zendesk tickets to reflect when a PagerDuty incident has been triggered, acknowledged, resolved, etc...",
-  "repository": "https://github.com/ryanhoskin/pdzendesk",
+  "repository": "https://github.com/ElizavetaShaad/zdcpheroku",
   "keywords": [
     "pagerduty",
     "zendesk"
